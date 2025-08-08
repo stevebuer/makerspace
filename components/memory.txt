@@ -1,0 +1,16 @@
+-------------------
+Memory
+-------------------
+
+Part #			Description					Qty			Est. Price
+------			-----------					---			----------
+
+2102L2PC		FairChild 1K x 1 SRAM				3			$4
+
+MCM60L256AP10 		Motorola 28-pin SRAM 32K x 8 SRAM		1			$10
+
+
+NMC27C64Q-200		NatSemi 8K x 8 EPROM				1	
+NMC27C256QE-150		NatSemi 32K x 8 EPROM				1
+
+M27C128A-12F1		ST Micro 16K x 8 EPROM				1

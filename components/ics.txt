@@ -1,0 +1,17 @@
+-------------------
+Integrated Circuits
+-------------------
+
+Part #			Description				Qty			Est. Price
+------			-----------				---			----------
+
+
+CD4011			NEC 14 pin NAND Gate			2			$4.80
+CD4013			RCA CD4013AE Dual D Flip Flip		1			$2
+CD4030BE		RCA Quad XOR				1			$5
+CD4040BE		RCA Binary Counter			1			$2.50
+
+SN74ALS257N		TI Quad 2-1 Multplexer			1			$3.00
+SN74HC11N		TI Triple 3-input NAND Gate		1			$7.50
+
+

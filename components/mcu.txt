@@ -1,0 +1,20 @@
+-------------------
+Microcontrollers
+-------------------
+
+Part #			Description					Qty			Est. Price
+------			-----------					---			----------
+
+AT89S52			40-pin 8051: 8K ROM, 256B RAM			2
+
+ATTINY2313V-10PU	AVR						2
+ATMEGA328P-PU		AVR						2
+
+
+
+
+
+PIC 12F675-I/P		8-pin mcu: 1K ROM, 64B RAM, 128B EEPROM		5			$2
+
+
+STC8952RC		40-pin 8051: 8K ROM, 512B RAM, 4K EEPROM	1			
