@@ -1,0 +1,32 @@
+---------
+Resistors
+---------
+
+Part #			Description				Qty			Est. Price
+------			-----------				---			----------
+
+----------
+1K -> 100K
+----------
+
+x			1K 1/4 watt				50
+x			1K 1/2 watt				20
+x			1.5K 1/4 watt				1
+A-2085			1.8K 1/4 watt				50
+x			2.2K 1/2 watt				20
+x			2.7K 1/4 watt				50
+x			3.0K 1/4 watt				4
+x			9.1K 1/4 watt				25
+x			15K 1/4 watt				25
+x			15K 1/2 watt				5
+x			12K 1/4 watt				5
+x			20K 1/4 watt				50
+x			22K 1/4 watt				5
+x			22K 1/2 watt				10
+x			47K 1/4 watt				10
+x			33K 1/4 watt				50
+x			51K 1/4 watt				5
+x			56K 1/4 watt				8
+x			56K 1/2 watt				10
+x			68K 1/4 watt				2
+x			82K 1/4 watt				5

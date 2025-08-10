@@ -28,11 +28,15 @@ Ceramic
 Electrolytic
 ------------
 
+x			0.39 uF 63V				1
 A-4516			0.47 uF 50V				9
 X			3.3 uF 350V				10
 A-4529			4.7 uF 16V				10
 A-4504			4.7 uF 35V				10
+x			6.8 uF 50V				1
 A-4534			10 uF 25V				8
+x			22 uF 50V				4
+x			33 uF 50V				5
 A-4514			100 uF 16V				10
 A-4541			100 uF 25V				10
 A-4538			100 uF 35V				10
