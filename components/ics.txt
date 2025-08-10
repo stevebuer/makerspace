@@ -5,13 +5,87 @@ Integrated Circuits
 Part #			Description				Qty			Est. Price
 ------			-----------				---			----------
 
+--------
+7400 TTL
+--------
 
-CD4011			NEC 14 pin NAND Gate			2			$4.80
-CD4013			RCA CD4013AE Dual D Flip Flip		1			$2
+74F04			Hex Inverter				1
+74F32			Quad 2-input OR gate			1
+74ALS161		4-bit binary counter			1
+74ALS257		TI Quad 2-1 Multplexer			1			$3.00
+74HC00N			Quad 2-input NAND gate			1
+74HC11N			Triple 3-input NAND Gate		1			$7.50
+
+----------
+CMOS Logic
+----------
+
+CD4001BE		Quad 2-input NOR Gate			2			
+CD4011			NEC 14 pin NAND Gate			3			$4.80
+CD4013			RCA CD4013AE Dual D Flip Flip		4			$2
+CD4017			Decade Counter (Johnson Counter)	1
 CD4030BE		RCA Quad XOR				1			$5
 CD4040BE		RCA Binary Counter			1			$2.50
+CD4049			Hex Buffer/Inverter			2
+4049BPC			Hex Inverting Buffer/Converter		1
+CD4514BE 		RCA 4-Bit Latch, 4:16 Decoder		1
+M4081BP			Mitsubishi Quad 2-input AND gate	1
+HD14020B		Hitachi 14-bit counter			1
 
-SN74ALS257N		TI Quad 2-1 Multplexer			1			$3.00
-SN74HC11N		TI Triple 3-input NAND Gate		1			$7.50
+-----------
+Timers
+-----------
 
+SCL4528BE		Dual monostable multivibrator		2
+HEF4528BP		Dual monostable multivibrator		1
+NE555								2
+RC555N			Raytheon Timer				1
 
+----------
+Op-amp
+----------
+
+LM324			Quad Op-Amp				4
+UA741CA			Op-Amp					2
+
+---------------
+Special Purpose
+---------------
+
+M4066BP			Mitsubishi Quad Analog Switch		2
+NE567N			Tone Docoder				9
+IR3N05			Sharp Tone Decoder			1
+MC1350P			IF Amplifier				5
+NJM386S			Headphone amp				1
+4N37			Opto Coupler				6
+LM386			Audio Amp				5
+TDA230A			Audio Amp				2
+
+SG-615P			20.0 Mhz Osc				1
+
+-----
+Other
+-----
+
+Valor LT6029		Ethernet AUI Xformer?			2
+BA6208			Motor Controller			1
+
+LM340T			5V 1.5A Voltage Reg			1
+
+----------
+IC Sockets
+----------
+
+216-3341		16 pin ZIF				1
+228-3341		28 pin narrow ZIF			2
+228-3345		20 pin ZIF				2
+A-624			6 pin IC				5
+A-001			8 pin IC				5
+A-004			14 pin IC				6
+A-003			16 pin IC				5
+A-002			18 pin IC				5
+A-1600			20 pin IC				5
+A-00?			40 pin IC				5
+
+A-1601			28 pin IC				5
+A-1604			24 pin IC				5

@@ -1,0 +1,36 @@
+--------------
+Pins & Sockets
+--------------
+
+Part #			Description				Qty			Est. Price
+------			-----------				---			----------
+
+------------
+2.54 mm pins
+------------
+
+A-196			1x40 female pin header			3
+A-4662			1x40 male pin header, breakable		10
+X			2x40 double row male			1
+A-1428			mini jumper 2.0mm			50
+
+
+------
+Dupont
+------
+
+X			1 wire dupont socket			25
+X			2 wire dupont socket			50
+X			3 wire dupont socket			50
+
+X			4-pin pre-wired 18" sets		5		
+
+X 			dupont crimp terminals			10
+
+---
+IDC
+---
+
+A-2939			10 pin box header (IDC socket)		6
+
+

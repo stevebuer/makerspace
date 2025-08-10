@@ -1,0 +1,13 @@
+------
+USB
+------
+
+Part #			Description				Qty			Est. Price
+------			-----------				---			----------
+
+---------
+PCB Mount
+---------
+
+X			USB Type B PCB thru-hole		8
+X			USB Mini-B breakout board		4

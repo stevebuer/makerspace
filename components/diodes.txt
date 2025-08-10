@@ -1,0 +1,46 @@
+------
+Diodes
+------
+
+Part #			Description				Qty			Est. Price
+------			-----------				---			----------
+
+---------
+Rectifier
+---------
+
+1N4002			100V, 1.0A recitifer			25
+1N4004			400V, 1.0A rectifier			25
+1N4007			1000V, 1.0A rectifier			25
+1N5401			100V, 3A Rectifier 1.2 Vfwd		2
+1N5402			200V, 3A Rectifier 1.2 Vfwd		2
+1N5408			1000V, 3A Rectifier 1.2 Vfwd		10
+
+GE-531			2.5A Rectifier				25
+
+------------------
+Switching / Signal
+------------------
+
+1N914								30
+1N4148			100V, 300mA 				20
+
+---------
+Germanium
+---------
+
+OA47			25V, 100mA .34-.45V Vfwd		2
+
+-----
+Zener
+-----
+
+1N4735			6.2V 1W Zener				10			
+
+------
+Bridge
+------
+
+DF02			1A rectifier chip			2
+3N256A			2A bridge				2
+2W04			400V, 2.0A rectifier			10
