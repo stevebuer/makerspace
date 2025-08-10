@@ -31,3 +31,5 @@ LP2950A			Natsemi LDO 3.0/3.3/*5.0V 100mA TO-92	8 	Note: check 5.0 version?
 LM317T			Variable +Volts, 1.5A			3
 LM337T			Variable -Volts, 1.5A			3
 LM350T			1.2 - 33V @ 3A				3
+
+LM338K			NatSemi 1.2 - 33V, 5A TO-3		4
