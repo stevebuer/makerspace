@@ -1,0 +1,42 @@
+------------------------
+Small Signal Transistors
+------------------------
+
+Part #			Description				Qty			Est. Price
+------			-----------				---			----------
+
+---
+BJT 
+---
+
+NTE199			NPN Low-noise pre-amp			2
+2SC1815			NPN general purpose			20
+2SC536			NPN					3
+2N3904			NPN					20
+
+S9018			NPN 1Ghz radio				1
+
+2SD882			NPN 3A general purpose			1
+
+2N2222			NPN					5
+2N3906			PNP					20
+2N4403			PNP Audio				2
+
+2N5109			NPN VHF 				2
+
+------
+MOSFET
+------
+
+2N7000			N-channel enhancement mode		1
+
+-----------------
+Power Transistors
+-----------------
+
+2SC1307			NPN RF Amp (CB Radio etc.)		4
+
+IRFIBC30G		Vishay power MOSFET			1
+
+TIP30A			PNP, -60V				1
+TIP30C			PNP, -100V				1

@@ -1,0 +1,33 @@
+------------------
+Voltage Regulators
+------------------
+
+Part #			Description				Qty			Est. Price
+------			-----------				---			----------
+
+--------------
+Fixed Positive
+--------------
+
+L7805CV			5V, TO-220
+L7809CV			9V, TO-220
+LM3940			3.3V, TO-220
+78L05			5V, TO-92
+L7812CV			12V, TO-220
+LM340T-5		5V
+
+--------------
+Fixed Negative
+--------------
+
+L7912CV			-12V, TO-220
+
+----------------
+Variable Voltage
+----------------
+
+LP2950A			Natsemi LDO 3.0/3.3/*5.0V 100mA TO-92	8 	Note: check 5.0 version?
+
+LM317T			Variable +Volts, 1.5A			3
+LM337T			Variable -Volts, 1.5A			3
+LM350T			1.2 - 33V @ 3A				3
