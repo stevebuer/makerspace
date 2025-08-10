@@ -5,9 +5,33 @@ Resistors
 Part #			Description				Qty			Est. Price
 ------			-----------				---			----------
 
-----------
-1K -> 100K
-----------
+-------------
+0 -> 100 Ohms
+-------------
+
+x			0.82 ohm 1W				5
+x			1.2 ohm 1W				5
+x			1 ohm 5W power				5
+x			1.8 ohm 1/4 watt			25
+x			2.4 ohm 1W				5
+x			10 ohm 1/4 watt				5
+x			10 ohm 2W WW Ohmite			5
+x			15 ohm 1/4 watt				5
+x			15 ohm 1/2 watt				3
+x			15 ohm 1/4 watt				4
+x			22 ohm 1/4 watt				4
+x			39 ohm 1/4 watt				1
+x			40 ohm 1/4 watt				5
+x			41 ohm 1/4 watt				5
+x			47 ohm 1/4 watt				8
+x			47 ohm 1W				2
+x			51 ohm 1/4 watt				4
+x			68 ohm 1/4 watt				5
+x			82 ohm 1/4 watt				5
+
+---------------
+1K -> 100K Ohms
+---------------
 
 x			1K 1/4 watt				50
 x			1K 1/2 watt				20
