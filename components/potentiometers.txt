@@ -1,0 +1,30 @@
+--------------
+Potentiometers
+--------------
+
+Part #			Description				Qty			Est. Price
+------			-----------				---			----------
+
+-------
+Trimmer
+-------
+
+P501			500 Ohm Trimmer Cermet 1 turn 0.5W	2
+P102			1K Ohm Trimmer Cermet 1 turn 0.5W	2
+A-2501			2K ohm trimpot 6mm			2
+A-2501			2K ohm trimpot 1 turn			1
+A-610			5K ohm trimpot 1 turn			2
+A-2513			5K ohm trimpot 6mm			2
+A-604			10K ohm trimpot 1 turn			2
+x			44k trimpot				1
+
+---------
+Muli-turn
+---------
+
+A-580			50 ohm trimmer 15 turn 0.75W side	2
+A-596			500 ohm trimmer 25 turn 0.5W top	4
+A-585			1k ohm trimmer 25 turn 0.5W top		2
+A-597			5k ohm trimmer 25 turn 0.5W top		2
+A-571			10K ohm trimmer 15 turn 0.75W side	2
+A-586			10k ohm trimmer 25 turn 0.5W top	2

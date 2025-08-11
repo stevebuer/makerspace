@@ -1,13 +1,17 @@
-------
-USB
-------
+-------------------
+Data I/O Connectors
+-------------------
 
 Part #			Description				Qty			Est. Price
 ------			-----------				---			----------
 
----------
-PCB Mount
----------
+---
+USB
+---
 
 X			USB Type B PCB thru-hole		8
 X			USB Mini-B breakout board		4
+
+-----------
+DB-9 Serial
+-----------
