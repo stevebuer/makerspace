@@ -54,7 +54,7 @@ x			680 ohm 1/2 watt			10
 x			820 ohm 1/4 watt			3
 
 ---------------
-1K -> 100K Ohms
+1K -> 99K Ohms
 ---------------
 
 x			1K 1/4 watt				50
@@ -78,3 +78,32 @@ x			56K 1/4 watt				8
 x			56K 1/2 watt				10
 x			68K 1/4 watt				2
 x			82K 1/4 watt				5
+
+-----------------
+100K -> 999K Ohms
+-----------------
+
+x			100K 1/4 watt				50
+x			100K 1/2 watt				10
+x			120K 1/4 watt				5
+x			120K 1/2 watt				10
+x			150K 1/4 watt				5
+x			220K 1/4 watt				1
+x			220K 1/2 watt				10
+x			270K 1/2 watt				10
+x			330K 1/2 watt				10
+x			390K 1/4 watt				20
+x			470K 1/4 watt				5
+x			470K 1/2 watt				10
+x			680K 1/4 watt				5
+
+-----------
+> 1 M Ohm
+-----------
+
+x			1M 1/4 watt				5
+x			1M 1/2 watt				10
+x			1.5M 1/2 watt				1
+x			4.7M 1/4 watt				4
+x			5.6M 1/4 watt				10
+x			10M 1/4 watt				10
