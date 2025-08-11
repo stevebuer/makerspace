@@ -64,6 +64,8 @@ A-2085			1.8K 1/4 watt				50
 x			2.2K 1/2 watt				20
 x			2.7K 1/4 watt				50
 x			3.0K 1/4 watt				4
+x			4.7K 1/4 watt				20
+x			4.7K 1/2 watt				10
 x			9.1K 1/4 watt				25
 x			15K 1/4 watt				25
 x			15K 1/2 watt				5
@@ -107,3 +109,35 @@ x			1.5M 1/2 watt				1
 x			4.7M 1/4 watt				4
 x			5.6M 1/4 watt				10
 x			10M 1/4 watt				10
+
+------------------------------
+Carbon Composition (old style)
+------------------------------
+Tube gear, etc.
+
+Various wattages:
+
+0.22
+2.2
+10
+15
+22
+24
+27
+30
+39
+47
+51
+75
+100
+130
+140
+270
+300
+390
+470
+510
+1K
+270k
+470k
+1M
