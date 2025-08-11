@@ -6,27 +6,26 @@ Part #			Description				Qty			Est. Price
 ------			-----------				---			----------
 
 ----------
-Breadboard
-----------
-
-----------
 Perfboard
 ----------
 
-----------
-Strip Board
-----------
+x			5CM x 7CM 2.54mm pitch			2
+22402A-17		2cm x 8cm w/ end pads
 
-----------
+-----------
+Strip Board
+-----------
+
+A-5031			94mm x 53mm Strip Board			1
+
+------------------
 Single Side Copper
-----------
+------------------
+
+169201			~2x3" Single Side Copper		9
 
 -----------
 Project PCB
 -----------
 
------------
------------
-
------------
------------
+x			LM78xx mini project board		1

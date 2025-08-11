@@ -1,0 +1,12 @@
+---------------
+Digital Devices
+---------------
+
+Part #			Description				Qty			Est. Price
+------			-----------				---			----------
+
+-----
+Input
+-----
+
+x			Rotary Encoder				5

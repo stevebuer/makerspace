@@ -5,6 +5,34 @@ Power Connectors
 Part #			Description				Qty			Est. Price
 ------			-----------				---			----------
 
----------
-Category
----------
+--------------
+DC Power Plugs
+--------------
+
+2740222			Radio Shack 2pin M/F 22-18 Ga		1
+368			2.1mm DC power to screw terminal	2
+261			Adafruit 732-2094-ND pigtail		8
+
+---------------
+Battery Holders
+---------------
+
+CX820			Double Coin cell holder	w/ switch	1
+x			18650 1 cell holder			2
+x			2x AA battery holder w/ switch		1
+x			Coin Cell PCB vertical mount		3
+
+------------
+Fuse Holders
+------------
+
+3521			Keystone 20x5mm PCB fuse holder		100
+BLX-2			5x20mm PCB fuse holder			7
+F4084-ND		Littlefuse clip 250V 30A		3
+
+-----
+Fuses
+-----
+
+x			M5x20mm 0.2 - 20A Assortment
+BBS-3 			Multimeter Fuse

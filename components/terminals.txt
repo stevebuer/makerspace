@@ -5,8 +5,22 @@ Terminals
 Part #			Description				Qty			Est. Price
 ------			-----------				---			----------
 
------
-Screw
------
+---------
+PCB Screw
+---------
 
 A-669			Degson DG301 5mm 3 pos. term. blk.	1
+A-663			Degson DG126				2
+
+A-672			2-pin female 5ESDV 300V			2
+A-690			2-pin male 5ESDV 300V			2
+A-692			4-pin male 5ESDV 300V			2
+A-674			4-pin female 5ESDV 300V			1
+
+KF301-5.0		300V AC 16A AWG 14-22 5.0mm pitch				
+
+----
+Misc
+----
+
+x			Test point loop				50

@@ -5,6 +5,11 @@ Audio Connectors
 Part #			Description				Qty			Est. Price
 ------			-----------				---			----------
 
----------
-Category
----------
+----------
+Microphone
+----------
+
+x			2-pin Heathkit Coax/Microphone		1
+x			4-pin CB/Ham Microphone			2
+x			6-pin CB/Ham Microphone			2
+

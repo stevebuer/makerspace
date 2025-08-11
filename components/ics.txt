@@ -63,6 +63,8 @@ TDA230A			Audio Amp				2
 
 SG-615P			20.0 Mhz Osc				1
 
+SA612AN 		RF Mixer				1
+
 -----
 Other
 -----
