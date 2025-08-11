@@ -6,7 +6,7 @@ Part #			Description				Qty			Est. Price
 ------			-----------				---			----------
 
 -------------
-0 -> 100 Ohms
+0 -> 99 Ohms
 -------------
 
 x			0.82 ohm 1W				5
@@ -28,6 +28,30 @@ x			47 ohm 1W				2
 x			51 ohm 1/4 watt				4
 x			68 ohm 1/4 watt				5
 x			82 ohm 1/4 watt				5
+
+---------------
+100 -> 999 Ohms
+---------------
+
+x			100 ohm 1/4 watt			5
+x			100 ohm 1/2 watt			10
+x			150 ohm 1/4 watt			10
+x			150 ohm 1/2 watt			10
+x			200 ohm 1/4 watt			15
+x			220 ohm 1/4 watt 2%			15
+x			270 ohm 1/4 watt 2%			2
+x			180 ohm 1/4 watt			2
+x			180 ohm 1/2 watt			10
+x			330 ohm 1/8 watt			10
+x			330 ohm 1/4 watt			4
+x			330 ohm 1/2 watt			10
+x			390 ohm 1/4 watt			5
+x			390 ohm 1/2 watt			10
+x			470 ohm 1/4 watt			20
+x			470 ohm 1/2 watt			10
+x			510 ohm 1/4 watt			5
+x			680 ohm 1/2 watt			10
+x			820 ohm 1/4 watt			3
 
 ---------------
 1K -> 100K Ohms
